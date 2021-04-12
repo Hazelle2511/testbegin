@@ -1,12 +1,12 @@
 {
   "arc": {
-    "app": "myapp",
+    "app": "begin-app",
     "http": [
-      [ "get": "/api" ]
-    ]
-  }
-}
-],
+      [
+        "get",
+        "/api"
+      ]
+    ],
     "tables": [
       {
         "data": {
